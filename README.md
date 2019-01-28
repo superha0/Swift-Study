@@ -1,2 +1,2 @@
-# Swift-Study
-ios 앱 만들기 ^-^v
+# Swift Study
+ios 앱 만들기
